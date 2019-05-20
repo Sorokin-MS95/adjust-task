@@ -1,4 +1,4 @@
-# Adjust Home Task
+# Sample Task
 #### General information
 This is a demo app to expose the sample dataset using Django REST framework.
 
